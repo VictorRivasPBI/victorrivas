@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 20" width="400" height="80">
+
+  <!-- Simple track -->
+  <line x1="10" y1="10" x2="90" y2="10"
+        stroke="#888" stroke-width="1"/>
+
+  <!-- MOVING DOT — replace 25 with 10‑90 -->
+  <circle id="dot"
+          cx="25" cy="10"
+          r="3" fill="red"/>
+</svg>
